@@ -1,7 +1,7 @@
 package com.krupa;
 
 public interface A {
-	
+//comments	
 	/*//Abstract method not allowed 
 	void method1();*/
 	default void method1() {
