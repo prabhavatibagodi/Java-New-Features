@@ -10,6 +10,7 @@ public interface Bank {
 		return true;
 	}
 	
+	//
 	default void InternetBanking() {
 		System.out.println("Supporting internet banking");
 	}
